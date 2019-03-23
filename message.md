@@ -1,5 +1,6 @@
-Moja
-Zonka
-Agatka
-Jest
-Kochana
+Wemos
+D1
+OLED 
+Display
+Works
+Amazing
